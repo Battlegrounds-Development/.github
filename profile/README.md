@@ -24,4 +24,4 @@ The official open-source ecosystem for the **Battlegrounds** Minecraft server. W
 ### 🛠️ Developer Information
 If you are looking to build a module for Battlegrounds, please refer to the **[core-api](https://github.com/Battlegrounds-Development/core-api)** documentation. All public repositories are maintained as mirrors of our internal development branches.
 
-[Discord] | [Server IP: play.example.com]
+[Discord] | [Server IP: play.bgsmc.us]
