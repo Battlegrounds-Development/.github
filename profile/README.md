@@ -6,7 +6,7 @@ The official open-source ecosystem for the **Battlegrounds** Minecraft server. W
 ### 🏛️ The Core Framework
 * **[core-api](https://github.com/Battlegrounds-Development/core-api)** (Public)  
     The primary integration point for the Battlegrounds ecosystem. Provides access to global services, player data, and cross-module communication. **Developers should depend on this module.**
-* **core** (Private)  
+* **core** 
     The internal implementation and engine of the server.
 
 ### 🎮 Gameplay & Mechanics
